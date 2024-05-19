@@ -1,0 +1,38 @@
+[
+    {
+        "id":"1",
+        "img":"./WORDPRESS.png",
+        "title":"CMS Development",
+        "description":"Transform your online presence with our expert Elementor and WooCommerce services. From captivating designs to seamless e-commerce integration, we optimize WordPress to drive sales and engage customers."
+    },
+    {
+        "id":"2",
+        "img":"./MERN.png",
+        "title":"MERN Site Development",
+        "description":"Empower your digital presence with our MERN Development expertise, ensuring seamless user experiences and scalable solutions that elevate your brand."
+    },
+    {
+        "id":"3",
+        "img":"./UIUX.png",
+        "title":"UI/UX Design",
+        "description":"Craft captivating digital experiences with our UI/UX design services, delivering intuitive interfaces that resonate with your audience and drive engagement."
+    },
+    {
+        "id":"4",
+        "img":"./DATABASE.png",
+        "title":"Database Development",
+        "description":"Build a sturdy digital infrastructure with our Database Development services, enabling efficient data management and scalability to support your business's evolving needs."
+    },
+    {
+        "id":"5",
+        "img":"./Ecommerce.png",
+        "title":"E-Commerce Development",
+        "description":"Accelerate your online growth with our E-commerce Site Development solutions, tailored to amplify conversions and streamline transactions for your customers, placing you at the forefront of the digital marketplace."
+    },
+    {
+        "id":"6",
+        "img":"./SEO.png",
+        "title":"SEO",
+        "description":"Optimize your online visibility and drive organic traffic with our SEO Optimization services, implementing strategies that propel your brand to the top of search engine results and resonate with your target audience."
+    }
+]
